@@ -1,5 +1,10 @@
 use debug::PrintTrait;
 
 fn main() {
-        'hello world'.print();
+    'hello world'.print();
+}
+
+#[test]
+fn hello_cairo_test() {
+
 }
